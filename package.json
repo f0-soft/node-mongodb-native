@@ -76,6 +76,8 @@
 	  , "async": "0.1.22"
     , "integra": "latest"
     , "optimist": "latest"
+    , "readable-stream": ""
+    , "through": ""
   }
 , "optionalDependencies": {
     "kerberos": "0.0.3"

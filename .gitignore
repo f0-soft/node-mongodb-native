@@ -18,3 +18,4 @@ rcover_html/
 results/
 .coverage_data/
 docs/sphinx-docs/source/driver-articles/
+.idea/
