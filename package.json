@@ -77,7 +77,6 @@
     , "integra": "latest"
     , "optimist": "latest"
     , "readable-stream": ""
-    , "through": ""
   }
 , "optionalDependencies": {
     "kerberos": "0.0.3"
